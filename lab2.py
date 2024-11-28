@@ -78,4 +78,4 @@ print(f"Выражение: {expression}")
 
 # Вычисление и вывод результата
 result = mul.evaluate(variables)
-print(f"Результат: {result}")  # Результат: 20
+print(f"Результат: {result}")  # Результат
